@@ -23,11 +23,13 @@
 
 1. Git clone this repository
 
-2. ```pip install -r requirements.txt ```  to install all the dependencies  
- 
-3. ```python ```
+2. ```pip install -r requirements.txt ```  to install all the dependencies
 
-4. _now your app is up and running_
+3. **Download Data Set**
+ 
+4. ```Project_Car_Price_Prediction.ipynb```
+
+5. _now your app is up and running_
 
 
 <!-- LICENSE -->  
@@ -49,11 +51,6 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request  
 
 
-<!-- CONTACT -->
 
-## :man: Project Created & Maintained By -
 
-- **Hey guys, I'm Jayvardhan. Find out more about me** [ here](https://linkedin.com/in/rathi406)
-- **Reach out to me at** [rathi406@gmail.com](rathi406@gmail.com)
-
-<h3 align="right">Built with :heart: by Jayvardhan Rathi</h3>
+<h3 align="right">with :heart: by Avinash Kumar Jha</h3>
