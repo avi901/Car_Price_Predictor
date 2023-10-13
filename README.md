@@ -5,7 +5,7 @@
 ## :fire: Features
 
 - Legit Data Source from kaggle
-- Less R squared error
+- Good Accuracy
 - Output visualization using matplotlib and seaborn
 - Predicted using both Linear and Lasso Regression technique
 
